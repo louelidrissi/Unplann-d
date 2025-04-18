@@ -23,7 +23,7 @@ The idea came from a user who wanted more **spontaneity** in their day—somethi
   <img src=https://github.com/user-attachments/assets/cc4961a7-7c61-4dca-a44f-59fbaf23d5ef alt="Screenshot 1" width="25%" />
   &nbsp; &nbsp;
   <img src=https://github.com/user-attachments/assets/912d1bcf-91d4-4e79-a2f3-b467b9d01942 alt="Screenshot 2" width="25%" />
-</p>
+</p></br>
 
 
 ## 🙌 Stay spontaneous. Stay active. Stay unplann’d.
