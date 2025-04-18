@@ -17,3 +17,7 @@ The idea came from a user who wanted more **spontaneity** in their day—somethi
   - **🧱 Plank**
   - **🕴️ Jumping Jacks**
   - **💪 Push-ups**
+
+
+
+## 🙌 Stay spontaneous. Stay active. Stay unplann’d.
