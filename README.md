@@ -8,11 +8,13 @@
 
 The idea came from a user who wanted more **spontaneity** in their day—something to break up long periods of sitting or working, without having to plan gym sessions or rigid schedules.
 
+![Simulator Screenshot - Apple Watch Series 10 (46mm) - 2025-04-18 at 15 01 39](https://github.com/user-attachments/assets/cc4961a7-7c61-4dca-a44f-59fbaf23d5ef)
+![Simulator Screenshot - Apple Watch Series 10 (46mm) - 2025-04-18 at 15 02 04](https://github.com/user-attachments/assets/912d1bcf-91d4-4e79-a2f3-b467b9d01942)
 
 <p align="center">
-  <img src="Simulator Screenshot - Apple Watch Series 10 (46mm) - 2025-04-18 at 15.01.39" alt="Screenshot 1" width="45%" />
+  <img src=https://github.com/user-attachments/assets/cc4961a7-7c61-4dca-a44f-59fbaf23d5ef alt="Screenshot 1" width="45%" />
   &nbsp; &nbsp;
-  <img src="Simulator Screenshot - Apple Watch Series 10 (46mm) - 2025-04-18 at 15.02.04.png" alt="Screenshot 2" width="45%" />
+  <img src=https://github.com/user-attachments/assets/912d1bcf-91d4-4e79-a2f3-b467b9d01942 alt="Screenshot 2" width="45%" />
 </p>
 
 ---
