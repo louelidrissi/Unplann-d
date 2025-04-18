@@ -8,6 +8,13 @@
 
 The idea came from a user who wanted more **spontaneity** in their day—something to break up long periods of sitting or working, without having to plan gym sessions or rigid schedules.
 
+
+<p align="center">
+  <img src="Simulator Screenshot - Apple Watch Series 10 (46mm) - 2025-04-18 at 15.01.39" alt="Screenshot 1" width="45%" />
+  &nbsp; &nbsp;
+  <img src="Simulator Screenshot - Apple Watch Series 10 (46mm) - 2025-04-18 at 15.02.04.png" alt="Screenshot 2" width="45%" />
+</p>
+
 ---
 
 ## ⏰ How It Works
