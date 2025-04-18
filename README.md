@@ -22,8 +22,10 @@ The idea came from a user who wanted more **spontaneity** in their day—somethi
 <p align="center">
   <img src=https://github.com/user-attachments/assets/cc4961a7-7c61-4dca-a44f-59fbaf23d5ef alt="Screenshot 1" width="25%" />
   &nbsp; &nbsp;
-  <img src=https://github.com/user-attachments/assets/912d1bcf-91d4-4e79-a2f3-b467b9d01942 alt="Screenshot 2" width="25%" />
+  <img src=[https://github.com/user-attachments/assets/912d1bcf-91d4-4e79-a2f3-b467b9d01942](https://github.com/user-attachments/assets/ed0964d7-a86a-4b4e-a056-3f1eb18bc708) alt="Screenshot 2" width="25%" />
 </p></br>
 
+![Simulator Screenshot - Apple Watch Series 10 (46mm) - 2025-04-18 at 15 15 14]()
 
+https://github.com/user-attachments/assets/ed0964d7-a86a-4b4e-a056-3f1eb18bc708
 ## 🙌 Stay spontaneous. Stay active. Stay unplann’d.
