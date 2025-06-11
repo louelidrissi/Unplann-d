@@ -28,4 +28,4 @@ The idea came from a user who wanted more **spontaneity** in their day—somethi
 
 
 
-## 🙌 Stay spontaneous. Stay active. Stay unplann’d.
+## Stay active. Stay unplann’d!
