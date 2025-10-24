@@ -6,7 +6,7 @@
 
 ## Purpose
 
-The idea came from a user who wanted more **spontaneity** in their day—something to break up long periods of sitting or working, without having to plan gym sessions or rigid schedules.
+The idea came from a user who wanted more spontaneity in their day—something to break up long periods of sitting or working, without having to plan gym sessions or rigid schedules.
 
 ---
 
@@ -25,7 +25,3 @@ The idea came from a user who wanted more **spontaneity** in their day—somethi
   <img src=https://github.com/user-attachments/assets/4b69e088-f878-404d-92fc-c6a7b6178af0 alt="Screenshot 2" width="25%" />
 </p></br>
 
-
-
-
-## Stay active. Stay unplann’d!
